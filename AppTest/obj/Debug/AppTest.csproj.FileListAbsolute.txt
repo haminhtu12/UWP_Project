@@ -1,0 +1,23 @@
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\AppTest.exe
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\AppTest.pdb
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\MyService.dll
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\MyService.pdb
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\obj\Debug\AppTest.csprojAssemblyReference.cache
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\obj\Debug\AppTest.csproj.CopyComplete
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\obj\Debug\AppTest.exe
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\obj\Debug\AppTest.pdb
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\AppTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\AppTest.exe.config
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\AppTest.exe
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\AppTest.pdb
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\MyService.dll
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\MyService.pdb
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\obj\Debug\AppTest.csprojAssemblyReference.cache
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\obj\Debug\AppTest.csproj.CopyComplete
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\obj\Debug\AppTest.exe
+C:\Users\LT88 - BVCN 2\source\repos\new-PJ\AppTest\obj\Debug\AppTest.pdb
